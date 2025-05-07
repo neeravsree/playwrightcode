@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="9.586728">
+<testsuite name="Checkbox_practce.spec.js" timestamp="2025-05-07T08:16:42.613Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.667" errors="0">
+<testcase name="checkboxtest@tagtest" classname="Checkbox_practce.spec.js" time="6.667">
+</testcase>
+</testsuite>
+<testsuite name="Checkbox_practce.spec.js" timestamp="2025-05-07T08:16:42.613Z" hostname="firefox" tests="1" failures="0" skipped="0" time="7.275" errors="0">
+<testcase name="checkboxtest@tagtest" classname="Checkbox_practce.spec.js" time="7.275">
+</testcase>
+</testsuite>
+<testsuite name="Checkbox_practce.spec.js" timestamp="2025-05-07T08:16:42.613Z" hostname="webkit" tests="1" failures="0" skipped="0" time="8.178" errors="0">
+<testcase name="checkboxtest@tagtest" classname="Checkbox_practce.spec.js" time="8.178">
+</testcase>
+</testsuite>
+</testsuites>
